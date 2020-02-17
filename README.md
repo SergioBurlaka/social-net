@@ -17,32 +17,32 @@ To do this you have to click gears at right corner of screen.
 Click on "Seed users", will create Users colection.
 [
   {\
-    login: "Bill",\
-    password: "123",\
+    login: "Bill",
+    password: "123",
   },\
   {\
     login: "Louis",\
     password: "123",\
   },
   {\
-    login: "Jim",\
-    password: "123",\
+    login: "Jim",
+    password: "123",
   },\
   {\
-    login: "Doug",\
-    password: "123",\
+    login: "Doug",
+    password: "123",
   },\
   {
     login: "Ricky",
     password: "123",
   },
   {\
-    login: "Dave",\
-    password: "123",\
+    login: "Dave",
+    password: "123",
   },\
   {\
-    login: "Kevin",\
-    password: "123",\
+    login: "Kevin",
+    password: "123",
   },\
 ]\
 
