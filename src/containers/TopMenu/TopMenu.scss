@@ -1,0 +1,38 @@
+
+
+.top-menu-wrapper{
+    display: flex;
+    padding: 10px 40px;
+    box-shadow: 0px 9px 13px 0px rgba(0, 0, 0, 0.11);
+    z-index: 10;
+    position: relative;
+    min-height: 40px;
+    background-color: white;
+    justify-content: space-between;
+
+    .navigation-bar{
+        display: flex;
+        a{
+            text-decoration: none;
+            margin-top: 10px;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 14px;
+            font-weight: 600;
+            padding-right: 20px;
+    
+        }
+    
+
+    }
+
+    .user-label{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 17px;
+        font-weight: 600;
+    }
+}
+
+

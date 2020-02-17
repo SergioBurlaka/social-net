@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+
+}
+
+html, body {
+    height: 100%;
+    color: #4d4d4d;
+
+    a{
+        color: #4d4d4d;
+    }
+
+}
+
+ #root {
+
+    height: 100%;
+    > div  {
+        height: 100%;
+        > div  {
+            height: 100%;
+        }
+    }
+
+
+}
+
+.control-panel__nav{
+    padding: 10px;
+}
+
+.control-panel{
+    display: flex;
+    overflow: auto;
+    background-color: rgb(241, 241, 241);
+    height: 100%;
+
+
+    &__nav-list {
+        display: flex;
+        flex-direction: column;
+        min-width: 150px;
+        a {
+            text-decoration: none;
+            margin-top: 10px;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 14px;
+            font-weight: 600;
+         
+
+        }
+    }
+
+}

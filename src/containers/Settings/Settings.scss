@@ -1,0 +1,63 @@
+
+
+.settings-section{
+    padding: 40px;
+    width: 100%;
+
+    .buttons-wrapper{
+        button {
+            margin-left: 20px;
+        }
+    }
+    
+    .login-container{
+        
+        max-width: 900px;
+            margin: auto;
+     
+    }
+
+    .link{
+        position: absolute;
+        font-size: 30px;
+        top: 40px;
+        right: 40px;
+    }
+    .link:hover{
+        cursor: pointer;
+        color:#3d7bff;
+    }
+
+    .input-wrapper{
+        max-width: 400px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+    
+        .error{
+            text-align: center;
+            color: red;
+            margin-top: 40px;
+            font-size: 21px;
+        }
+    
+        button{
+            margin-top: 20px;
+        }
+    }
+
+    .success-container{
+        max-width: 900px;
+        margin: auto;
+        margin-top: 40px;
+        >div{
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 25px;
+            color: red;
+        }
+    }
+
+}
+
