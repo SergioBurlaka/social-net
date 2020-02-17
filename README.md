@@ -1,5 +1,12 @@
 # social-net
 
+list of technologies:
+- Node.js\
+- Express\
+- Mongoose (is an library for MongoDB and Node.js)
+- React\
+- Redux\
+
 Instalation:
 
 1.load project 
