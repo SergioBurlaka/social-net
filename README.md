@@ -58,4 +58,7 @@ User scheme looks like:
 
 
 ![Alt text](http://dl3.joxi.net/drive/2020/02/17/0021/0128/1405056/56/cccd965ff2.jpg)
+Now, if you click on 'back'. You can login, input for example:\ Login: Dave\ Password: 123\
+
+![Alt text](http://dl4.joxi.net/drive/2020/02/17/0021/0128/1405056/56/fc8d60c518.jpg)
 
