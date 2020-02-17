@@ -14,4 +14,49 @@ Instalation:
 When application were starts at first time you need to init database.
 To do this you have to click gears at right corner of screen.
 ![Alt text](http://dl4.joxi.net/drive/2020/02/17/0021/0128/1405056/56/7544d1dc0e.jpg)
+Click on "Seed users", will create Users colection.
+[
+  {
+    login: "Bill",
+    password: "123",
+  },
+  {
+    login: "Louis",
+    password: "123",
+  },
+  {
+    login: "Jim",
+    password: "123",
+  },
+  {
+    login: "Doug",
+    password: "123",
+  },
+  {
+    login: "Ricky",
+    password: "123",
+  },
+  {
+    login: "Dave",
+    password: "123",
+  },
+  {
+    login: "Kevin",
+    password: "123",
+  },
+]
+
+User scheme looks like:
+{
+  login: String,
+  password: String,
+  friends: [],
+  pending_req_out: [],
+  pending_req_in: [],
+
+}
+
+
+
+![Alt text](http://dl4.joxi.net/drive/2020/02/17/0021/0128/1405056/56/7544d1dc0e.jpg)
 
