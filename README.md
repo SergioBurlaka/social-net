@@ -35,26 +35,25 @@ Click on "Seed users", will create Users colection.
   {
     login: "Ricky",
     password: "123",
-  }
-  {\
+  }\
+  {
     login: "Dave",
     password: "123",
   }\
   {
     login: "Kevin",
     password: "123",
-  }
-]\
+  }\
+]
 
 User scheme looks like:
-{
-  login: String,
-  password: String,
-  friends: [],
-  pending_req_out: [],
-  pending_req_in: [],
-
-}
+{\
+  login: String,\
+  password: String,\
+  friends: [],\
+  pending_req_out: [],\
+  pending_req_in: [],\
+}\
 
 
 
