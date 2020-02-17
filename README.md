@@ -14,7 +14,7 @@ Instalation:
 When application were starts at first time you need to init database.
 To do this you have to click gears at right corner of screen.
 ![Alt text](http://dl4.joxi.net/drive/2020/02/17/0021/0128/1405056/56/7544d1dc0e.jpg)
-Click on "Seed users", will create Users colection.
+Click on "Seed users", will create Users colection. And filled the database.
 [\
   {
     login: "Bill",
