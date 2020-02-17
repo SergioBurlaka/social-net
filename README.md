@@ -7,7 +7,7 @@ list of used technologies
 - React
 - Redux
 
-Installation
+Installation\
 1.load project 
 
 2. Start aplication:
