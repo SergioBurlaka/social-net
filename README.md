@@ -7,7 +7,7 @@ list of used technologies
 - React
 - Redux
 
-Installation\
+Installation:\
 Caution!!!\
 !!!! For run this app at your computer, on your computer must be instaled Node.js and MongoDb.!!!!!\
 
