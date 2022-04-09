@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "express": "^4.17.1",
     "immutability-helper": "^3.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.13.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
